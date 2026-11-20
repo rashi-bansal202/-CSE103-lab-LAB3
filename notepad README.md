@@ -39,7 +39,7 @@
 
 ## Connect With Me
 - LinkedIn: [www.linkedin.com/in/rashi-bansal-569731436]
-- Email:[rashibansal2008@gmail.com]
+- Email:[2601060009@krmu.edu.in]
 
 
 
