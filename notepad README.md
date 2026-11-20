@@ -20,7 +20,7 @@
 
 - **Lab 1 – API-Based Data Cleaning & Validation Toolkit**
   - Python, Pandas, API interaction and data cleaning.
-  - GitHub: [Lab 1 Repository](https://github.com/rashi-bansal202/Lab1-API-Data-Cleaning)
+  - GitHub: [Lab 1 Repository](https://github.com/rashi-bansal202/-CSE103-lab-LAB3)
 
 - **Developer Portfolio**
   - A beginner developer portfolio showcasing my learning and projects.
@@ -38,8 +38,11 @@
 - **Batch:** 2026–2029
 
 ## Connect With Me
-LinkedIn: www.linkedin.com/in/rashi-bansal-569731436
+- LinkedIn: [www.linkedin.com/in/rashi-bansal-569731436]
+- Email:[rashibansal2008@gmail.com]
 
-Email: rashibansal2008@gmail.com
-- LinkedIn: [Add Your LinkedIn Profile URL]
+
+
+
 - Email: [Add Your College Email Address]
+
