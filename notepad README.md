@@ -1,57 +1,45 @@
-# -CSE103-lab-LAB3
-Lab work for LAB 3 — GitHub Collaboration &amp; API Interaction
-Edited on GitHub
-# CSE103 Lab — LAB 3: GitHub Collaboration & API Interaction
+# Hi, I am Rashi Bansal!
 
-![Last Commit](https://img.shields.io/github/last-commit/rashi-bansal202/cse103-lab-LAB3)
-![Language](https://img.shields.io/badge/language-Python-blue)
-![Status](https://img.shields.io/badge/status-active-brightgreen)
+## About Me
+- BCA (AI & Data Science) Student at **K.R. Mangalam University**, Gurugram (Batch 2026–2029).
+- Currently learning: Python, Linux, HTML, CSS and Git/GitHub.
+- Interested in: Artificial Intelligence, Machine Learning, Data Science and Web Development.
+- Passionate about programming, problem-solving and learning new technologies.
 
-## Overview
+## Technical Skills
 
-This repository contains lab work for LAB 3 of the
-Computer Fundamentals & Career Pathways (CSE103) course at
-K.R. Mangalam University, Gurugram.
+| Category | Technologies |
+|---|---|
+| Programming Languages | Python (Beginner) |
+| Web Development | HTML, CSS |
+| Tools | Git, GitHub, VS Code |
+| Operating System | Linux |
+| Other Skills | Data Analysis, Problem Solving |
 
-## Repository Structure
+## Featured Projects
 
-```
-cse103-lab-LAB3/
-+-- README.md       # Project documentation (this file)
-+-- CHANGELOG.md    # Version history
-+-- main.py         # Primary Python script
-+-- .gitignore      # Files excluded from Git tracking
-```
+- **Lab 1 – API-Based Data Cleaning & Validation Toolkit**
+  - Python, Pandas, API interaction and data cleaning.
+  - GitHub: [Lab 1 Repository](https://github.com/rashi-bansal202/Lab1-API-Data-Cleaning)
 
-## Skills Demonstrated
+- **Developer Portfolio**
+  - A beginner developer portfolio showcasing my learning and projects.
 
-| Skill                | Status      |
-|----------------------|-------------|
-| Git initialisation   | Completed   |
-| Meaningful commits   | Completed   |
-| Remote push / pull   | Completed   |
-| Markdown docs        | Completed   |
-| API interaction      | Completed   |
+## Currently Working On
+- Semester 1 programming and data science lab projects.
+- Improving Python programming skills.
+- Learning Data Analysis and Machine Learning fundamentals.
+- Building my GitHub portfolio.
 
-## How to Run
+## Education
+- **Degree:** Bachelor of Computer Applications (BCA)
+- **Specialisation:** Artificial Intelligence & Data Science
+- **University:** K.R. Mangalam University
+- **Batch:** 2026–2029
 
-```bash
-git clone https://github.com/rashi-bansal202/cse103-lab-LAB3.git
-cd cse103-lab-LAB3
-python3 main.py
-```
+## Connect With Me
+LinkedIn: www.linkedin.com/in/rashi-bansal-569731436
 
-## Key Learning Outcomes
-
-- Configured Git identity and initialised local repositories
-- Created atomic commits with Conventional Commit messages
-- Pushed and pulled changes with a GitHub remote
-- Authored structured Markdown documentation
-
-## References
-
-- [Pro Git Book](https://git-scm.com/book/en/v2)
-- [GitHub Skills](https://skills.github.com/)
-git add README.md MARKDOWN_GUIDE.md
-git commit -m "docs: create comprehensive README and Markdown guide"
-git push- [Markdown Guide](https://www.markdownguide.org/)
+Email: rashibansal2008@gmail.com
+- LinkedIn: [Add Your LinkedIn Profile URL]
+- Email: [Add Your College Email Address]
